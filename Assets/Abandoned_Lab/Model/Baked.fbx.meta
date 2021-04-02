@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 2316e9329f9dfcb47944a8582452b740
+timeCreated: 1480090372
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Door
+    100004: Door_2
+    100006: Door_3
+    100008: Door_Double
+    100010: Door_Frame
+    100012: Door_Frame_1
+    100014: Door_Single
+    100016: Floor_Ceiling
+    100018: Fluorescent_Light_Fixture
+    100020: Handle
+    100022: Handle_2
+    100024: Handle_3
+    100026: Handle_Base
+    100028: Handle_Base_2
+    100030: Handle_Base_3
+    100032: Wall_Door_Double
+    100034: Wall_Door_Single
+    100036: Wall_Simple
+    100038: Wall_Window_Big
+    100040: Wall_Window_Door
+    100042: WIndow
+    100044: Window
+    400000: //RootNode
+    400002: Door
+    400004: Door_2
+    400006: Door_3
+    400008: Door_Double
+    400010: Door_Frame
+    400012: Door_Frame_1
+    400014: Door_Single
+    400016: Floor_Ceiling
+    400018: Fluorescent_Light_Fixture
+    400020: Handle
+    400022: Handle_2
+    400024: Handle_3
+    400026: Handle_Base
+    400028: Handle_Base_2
+    400030: Handle_Base_3
+    400032: Wall_Door_Double
+    400034: Wall_Door_Single
+    400036: Wall_Simple
+    400038: Wall_Window_Big
+    400040: Wall_Window_Door
+    400042: WIndow
+    400044: Window
+    2300000: Door
+    2300002: Door_2
+    2300004: Door_3
+    2300006: Door_Frame
+    2300008: Door_Frame_1
+    2300010: Door_Single
+    2300012: Floor_Ceiling
+    2300014: Fluorescent_Light_Fixture
+    2300016: Handle
+    2300018: Handle_2
+    2300020: Handle_3
+    2300022: Handle_Base
+    2300024: Handle_Base_2
+    2300026: Handle_Base_3
+    2300028: Wall_Door_Double
+    2300030: Wall_Door_Single
+    2300032: Wall_Simple
+    2300034: Wall_Window_Big
+    2300036: Wall_Window_Door
+    2300038: WIndow
+    2300040: Window
+    3300000: Door
+    3300002: Door_2
+    3300004: Door_3
+    3300006: Door_Frame
+    3300008: Door_Frame_1
+    3300010: Door_Single
+    3300012: Floor_Ceiling
+    3300014: Fluorescent_Light_Fixture
+    3300016: Handle
+    3300018: Handle_2
+    3300020: Handle_3
+    3300022: Handle_Base
+    3300024: Handle_Base_2
+    3300026: Handle_Base_3
+    3300028: Wall_Door_Double
+    3300030: Wall_Door_Single
+    3300032: Wall_Simple
+    3300034: Wall_Window_Big
+    3300036: Wall_Window_Door
+    3300038: WIndow
+    3300040: Window
+    4300000: Fluorescent_Light_Fixture
+    4300002: Floor_Ceiling
+    4300004: Door_Frame_1
+    4300006: Door
+    4300008: Handle_Base
+    4300010: Handle
+    4300012: Door_Frame
+    4300014: Door_2
+    4300016: Handle_Base_2
+    4300018: Handle_2
+    4300020: Door_Single
+    4300022: Door_3
+    4300024: Handle_Base_3
+    4300026: Handle_3
+    4300028: Wall_Door_Double
+    4300030: Wall_Door_Single
+    4300032: Wall_Simple
+    4300034: Wall_Window_Big
+    4300036: Window
+    4300038: Wall_Window_Door
+    4300040: WIndow
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
