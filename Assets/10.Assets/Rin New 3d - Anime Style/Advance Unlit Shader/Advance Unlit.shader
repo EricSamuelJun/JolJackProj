@@ -27,6 +27,12 @@
         Blend [_SrcBlend] [_DstBlend] //Switch blend modes according to values
         ZWrite [_ZWrite] //Switch this on or off according to value
         Cull [_Cull] //Switching between culling modes 
+        Stencil {
+            Ref 1
+            Comp equal
+            Pass keep
+            Fail keep
+        }
 
         Pass
         {
